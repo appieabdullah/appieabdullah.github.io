@@ -1,5 +1,10 @@
 body {background-color: antiquewhite;
 
 }
-li {display:block;
+li {float:left ;
+} 
+
+a {display:block;
+padding: 8px;
+
 }
