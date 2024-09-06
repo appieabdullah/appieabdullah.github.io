@@ -1,9 +1,9 @@
-body {background-color: antiquewhite;
+body {background-color: antiquewhite; /*achtergrond kleur */
 
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: none; /*bolletjes weg*/
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -11,19 +11,19 @@ ul {
   }
   
   li {
-    float: left;
+    float: left; /*het menu is links boven in de hoek*/
   }
   
   li a {
-    display: block;
+    display: block; /* met display kun je bepalen hoe de browser een eelemnt moet weergeven in dit geval een blokje*/
     color: white;
-    text-align: center;
-    padding: 14px 16px;
+    text-align: center; /*plek van texts in vierkantje van menu*/
+    padding: 18px 21px;
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
+  
   li a:hover {
-    background-color: #111;
+    background-color: #111; /*achtergrond kleur wannner je muis erover heen staat*/
   }
 }
