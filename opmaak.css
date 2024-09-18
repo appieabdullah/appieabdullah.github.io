@@ -21,7 +21,13 @@ ul {
     padding: 18px 21px; /* de groote van de balkje met de texts erin*/
     text-decoration: none;
   }
-  
+  h1 {
+    border-style:double ;
+    color:white ;
+    text-align:center ;
+
+
+  }
   
   li a:hover {
     background-color: #111; /*achtergrond kleur wannner je muis erover heen staat*/
