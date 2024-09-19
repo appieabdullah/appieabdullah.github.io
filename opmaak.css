@@ -33,9 +33,9 @@ ul {
     background-color: #111; /*achtergrond kleur wannner je muis erover heen staat*/
   }
 
-  .hometekst{
-    color: #333;
-    text-align:center ;
+  .hometekst{  /*aanpassen van classe hometekst die ik heb gekozen*/
+    color: #333;  /*kleur van tekst*/
+    text-align:center ;  /* tekst in het midden */
     width:70% ;
     margin: auto;
   }
