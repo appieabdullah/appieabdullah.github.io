@@ -21,7 +21,7 @@ ul {
     padding: 18px 21px; /* de groote van de balkje met de texts erin*/
     text-decoration: none;
   }
-  h1 {
+  h1 {              /* alle h1 aanpassen */
     border-style:double ;
     color:rgb(0, 0, 0) ;
     text-align:center ;
@@ -32,3 +32,9 @@ ul {
   li a:hover {
     background-color: #111; /*achtergrond kleur wannner je muis erover heen staat*/
   }
+
+  .hometekst{
+    color: #333;
+    text-align:center ;
+    width: 70px; ;
+    margin: auto;
