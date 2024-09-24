@@ -39,7 +39,12 @@ ul {
     width:70% ;
     margin: auto;
   }
-.kleurmodellen{text-align: center;}
+.kleurmodellen{
+  text-align: center;
+width:70% ;
+margin: auto;
+
+}
   .rgbr{ color:red;}
   .rgbg{color: green;}
   .rgbb{color:blue ;}
