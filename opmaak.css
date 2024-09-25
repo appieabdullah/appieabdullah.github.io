@@ -55,3 +55,12 @@ margin: auto;
 
   .kleurfoto{ position: relative;
    margin: auto; }
+
+   .footer{  background-color: gray;
+    padding: 15px;
+    font-size: 13px;
+    border-radius: 0px;
+    display: block;
+
+
+   }
