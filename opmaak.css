@@ -53,4 +53,8 @@ margin: auto;
   .CMYm{color: magenta;}
   .CMYy{color:rgb(222, 222, 23) ;}
 
-  .kleurfoto{text-align: center;}
+  .kleurfoto{position: relative;
+   margin: auto; 
+  
+  
+  }
