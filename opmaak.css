@@ -53,12 +53,11 @@ margin: auto;
   .CMYm{color: magenta;}
   .CMYy{color:rgb(222, 222, 23) ;}
 
-  .kleurfoto{ position: relative;
-   margin: auto; }
+ 
 
-   .footer{  background-color: gray;
-    padding: 15px;
-    font-size: 13px;
-    border-radius: 0px;
-    display: block;
+   .footer{  background-color: gray;/*achtergrond kleur van footer*/ 
+    padding: 15px;  /**/
+    font-size: 35px; /**/
+    border-radius: 0px; /**/
+    display: block;   /**/
   }
