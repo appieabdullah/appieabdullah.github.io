@@ -7,7 +7,7 @@ ul {
     margin: 0; /*ruimte om rand van menu*/
     padding: 0; /*ruimte tussen beging van text en begin balkje*/
     overflow: hidden; /* verdwijnd wanneer menu te veel opties heeft*/
-    background-color: #333;
+    background-color: #333; /*achter grond kleur van menu*/
   }
   
   li {
@@ -22,7 +22,7 @@ ul {
     text-decoration: none;
   }
   h1 {              /* alle h1 aanpassen */
-    border-style:double ;
+    border-style:double ;/*voegt een dubbele rand rondom de tekst*/
     color:rgb(0, 0, 0) ;
     text-align:center ;
 
@@ -58,6 +58,6 @@ margin: auto;
    .footer{  background-color: gray;/*achtergrond kleur van footer*/ 
     padding: 15px;  
     font-size: 20px; /*letter groote van de tekst*/
-    border-radius: 0px; /**/
-    display: block;   /**/
+    border-radius: 0px; 
+    display: block;   
   }
