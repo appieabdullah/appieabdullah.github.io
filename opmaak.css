@@ -19,7 +19,7 @@ ul {
     color: white; /*kleur van text*/
     text-align: center; /*plek van texts in vierkantje van menu*/
     padding: 18px 21px; /* de groote van de balkje met de texts erin*/
-    text-decoration: none;
+    text-decoration:none ;/*hoe tekst in menu eruit ziet*/
   }
   h1 {              /* alle h1 aanpassen */
     border-style:double ;/*voegt een dubbele rand rondom de tekst*/
